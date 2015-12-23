@@ -1,3 +1,6 @@
+# Ruby on Rail Tutorial: "Toy App!"
+This is the first application for the Ruby
+
 == README
 
 This README would normally document whatever steps are necessary to get the
